@@ -2,7 +2,7 @@
 
 This repository contains scripts for our project pipeline.
 
-## File Structure
+## Directory Structure
 
 - **Labels wo translation:**
   - Contains scripts for sentiment analysis without translation, focusing on binary label prediction.
