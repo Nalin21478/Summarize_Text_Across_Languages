@@ -1,6 +1,6 @@
 # Sentiment Analysis Across Languages: Evaluation Before and After Machine Translation to English
 
-This repository contains scripts for our project pipeline.
+Our project investigates the performance of transformer models in Sentiment Analysis tasks across multilingual datasets and machine-translated text, addressing the lack of sentiment resources for non-English languages. It evaluates model effectiveness in various linguistic contexts, highlighting performance variations and suggesting avenues for future research to improve sentiment analysis across diverse languages.
 
 ## Directory Structure
 
