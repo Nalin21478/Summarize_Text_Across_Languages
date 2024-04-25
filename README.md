@@ -28,4 +28,4 @@ This repository contains scripts for our project pipeline.
 ## Usage
 Can directly run the scripts sequentially to acquire model checkpoints and eventaully infer and compare models.
 To directly infer, models import specific model checkpoint either from hugging face using the provided access key or load check point from 
-[https://drive.google.com/drive/folders/1R00drvoxtaUIxxDaJxbdy2yfBKd2mkQ5](drive link)
+[drive link](https://drive.google.com/drive/folders/1R00drvoxtaUIxxDaJxbdy2yfBKd2mkQ5)
